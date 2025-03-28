@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Luís Pereira
 
-<!--
-**Kaxeszer/Kaxeszer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sou estudante de **Engenharia Informática** na **Universidade Aberta (UAb)**.  
+💼 Estou à procura de oportunidades de trabalho na área de **Tecnologias da Informação (IT)**.  
+💻 Interesso-me por programação, cibersegurança, desenvolvimento de software e resolução de problemas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologias e Ferramentas
+
+- 💻 **Linguagens**: `C`, `C++`, `C#`, `Java`, `JavaScript`, `Python`, `SQL`, `CSS`, `PHP`
+- 🛠️ **Ferramentas**: `Git`, `Visual Studio Code`, `IDEs da JetBrains (IntelliJ, PyCharm, etc.)`, `Unity`, `Linux`, `UTM`
+- 🌐 **Áreas de Interesse**: `Desenvolvimento Web`, `Jogos com Unity`, `Segurança Informática`
+
+---
+
+## 📚 Projetos Académicos e Pessoais
+
+🔹 Repositórios com código de projetos desenvolvidos ao longo do curso  
+🔹 Scripts e exercícios de prática em várias linguagens  
+🔹 Experiências com Unity e desenvolvimento de jogos seguindo arquitetura MVC
+
+---
+
+## 📬 Contacto
+
+- 📧 Email: `kaxeszer@gmail.com`
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kaxeszer)
+
+---
+
+🧠 Sempre à procura de aprender mais e contribuir para projetos desafiantes.  
+Se tens uma oportunidade ou projeto interessante, **fala comigo!**
